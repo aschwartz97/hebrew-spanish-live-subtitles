@@ -1,0 +1,171 @@
+# Glosario de fútbol (hebreo = español). Una entrada por línea; las líneas con # se ignoran.
+# Podés agregar nombres de jugadores, equipos y términos que el traductor se equivoque.
+xG = xG (goles esperados)
+סקאוטינג = scouting (detección de talentos)
+סקאוט = scout / ojeador
+אנליסט = analista
+אנליזה = análisis
+לחץ גבוה = presión alta
+לחץ = presión
+בלוק נמוך = bloque bajo
+בלוק גבוה = bloque alto
+מעבר = transición
+התקפת מעבר = contraataque
+כדור נייח = pelota parada
+בעיטה חופשית = tiro libre
+קרן = córner
+נבדל = offside / fuera de juego
+שער = gol
+שוער = arquero
+מגן = lateral / defensor
+בלם = central (NO "freno")
+קשר = mediocampista (NO "enlace")
+קשר הגנתי = mediocampista defensivo / volante central
+כנף = extremo
+חלוץ = delantero (NO "pionero")
+חלוץ מרכזי = centrodelantero
+מאמן = entrenador / director técnico
+הרכב = alineación / formación inicial
+מערך = esquema táctico
+החזקת כדור = posesión
+מסירה = pase
+בעיטה למסגרת = remate al arco
+מפת בעיטות = mapa de tiros (shotmap)
+ליגת העל = Ligat Ha'al (primera división de Israel)
+הפועל ירושלים = Hapoel Jerusalem
+בית"ר ירושלים = Beitar Jerusalem
+מכבי תל אביב = Maccabi Tel Aviv
+מכבי חיפה = Maccabi Haifa
+הפועל באר שבע = Hapoel Beer Sheva
+הפועל תל אביב = Hapoel Tel Aviv
+
+# --- Cosas que el dictado suele escribir mal (usá el contexto para corregir) ---
+# סקאוטינג / סקאוט: el dictado lo escribe de muchas formas
+סקארטים = סקאוטים (scouts)
+סקרטינג = סקאוטינג (scouting)
+סקארטינג = סקאוטינג (scouting)
+סקאאוט = סקאוט (scout)
+סקאובים = סקאוטים (scouts)
+Scarting = scouting
+Scarted = scouting
+# Entrenadores y equipos
+פרוגולה = Guardiola (el dictado también escribe פורטיולה, טדיולה, בורגיולה)
+פטר בוז = Peter Bosz
+קלופ = Klopp
+סימאון = Simeone
+ליאן מדריד = Real Madrid
+ארסנל = Arsenal
+רייס = Rice (jugador; no es "arroz")
+רודגור = Ødegaard
+# Posiciones mal escuchadas
+ווידלר = ווינגר = extremo
+ווינדו = ווינגר = extremo
+# Conceptos tácticos y de scouting
+לחץ אחרי איבוד כדור = contrapresión (presión tras pérdida)
+גגנפרסינג = gegenpressing
+חצי מרחב = half-space (carril interior)
+בין הקווים = entre líneas
+קו הקישור = línea de mediocampo
+שרשרת = cadena (línea de jugadores que se mueve junta)
+תנועה = movimiento / desmarque
+פסיבי = scouting pasivo (el agente ofrece al jugador)
+אקטיבי = scouting activo (el club busca al jugador)
+
+# --- Términos de análisis y táctica ---
+מפת חום = mapa de calor (el dictado puede escribir "מפת תחום")
+מגן כנף = carrilero / lateral-volante (wing-back)
+הצלבה = centro
+להצליב = mandar un centro
+מסירת מפתח = pase clave
+ריצת עומק = carrera en profundidad / desmarque de ruptura
+כדור עומק = pase en profundidad
+הגנה אזורית = marcación zonal
+שמירה אישית = marcación al hombre
+אסיסט = asistencia
+פנדל = penal
+דו-קרב = duelo
+אחד על אחד = uno contra uno
+אקס איי = xA (asistencias esperadas)
+xA = xA (asistencias esperadas)
+פי פי די איי = PPDA (pases permitidos por acción defensiva)
+ppda = PPDA (pases permitidos por acción defensiva)
+אקס ג'י = xG (goles esperados)
+ליגת האלופות = Liga de Campeones
+הליגה האירופית = Europa League
+פס עליון = (jugador) que se mueve entre líneas
+
+# --- Equipos (el dictado a veces los deforma: usá el contexto) ---
+ברצלונה = Barcelona
+אתלטיקו מדריד = Atlético de Madrid
+באיירן = Bayern Múnich ("הוביל מינכן" suele ser "באיירן מינכן")
+מינכן = Múnich (en fútbol, casi siempre Bayern Múnich)
+מנצ'סטר סיטי = Manchester City
+מנצ'סטר יונייטד = Manchester United
+ליברפול = Liverpool
+צ'לסי = Chelsea
+טוטנהאם = Tottenham
+יובנטוס = Juventus
+אינטר = Inter de Milán
+מילאן = Milan
+נאפולי = Napoli
+פריז סן ז'רמן = Paris Saint-Germain
+בורוסיה דורטמונד = Borussia Dortmund
+מכבי נתניה = Maccabi Netanya
+הפועל חיפה = Hapoel Haifa
+בני סכנין = Bnei Sakhnin
+
+# --- Jugadores y técnicos ---
+ימאל = Lamine Yamal (el dictado puede escribir "להאמין ימהאל")
+ימהאל = Lamine Yamal
+פדרי = Pedri
+לבנדובסקי = Robert Lewandowski
+ילוונדוובסקי = Robert Lewandowski
+סלאח = Mohamed Salah
+הולאנד = Erling Haaland
+דה בריינה = Kevin De Bruyne
+רודרי = Rodri
+ויניסיוס = Vinícius Júnior
+בלינגהאם = Jude Bellingham
+מבאפה = Kylian Mbappé
+מסי = Messi
+רונאלדו = Cristiano Ronaldo
+דקלן = Declan Rice (el dictado a veces deja solo "דקל")
+סאקה = Bukayo Saka
+שקה = Bukayo Saka
+סקאר = Bukayo Saka
+גבר דיולה = Guardiola
+גווארדיולה = Guardiola
+ערן זהבי = Eran Zahavi
+זהבי = Eran Zahavi
+מנור סולומון = Manor Solomon
+אוסקר גלוך = Oscar Gloukh
+גלוך = Oscar Gloukh
+דור פרץ = Dor Peretz
+
+# --- Ligat Ha'al y fútbol israelí (los clubes cambian cada temporada por ascensos y descensos: revisá la lista) ---
+בית״ר ירושלים = Beitar Jerusalem
+בית"ר ירושלים = Beitar Jerusalem
+הפועל באר-שבע = Hapoel Beer Sheva
+עירוני קריית שמונה = Ironi Kiryat Shmona
+קריית שמונה = Ironi Kiryat Shmona
+עירוני טבריה = Ironi Tiberias
+מכבי בני ריינה = Maccabi Bnei Reineh
+בני ריינה = Maccabi Bnei Reineh
+הפועל פתח תקווה = Hapoel Petah Tikva
+הפועל חדרה = Hapoel Hadera
+מ.ס. אשדוד = FC Ashdod
+אשדוד = FC Ashdod (el club, si habla de fútbol)
+הפועל רעננה = Hapoel Ra'anana
+הפועל כפר סבא = Hapoel Kfar Saba
+בני יהודה = Bnei Yehuda
+הפועל נוף הגליל = Hapoel Nof HaGalil
+הפועל אשקלון = Hapoel Ashkelon
+הפועל עכו = Hapoel Akko
+מכבי פתח תקווה = Maccabi Petah Tikva
+בני סכנין = Bnei Sakhnin
+נבחרת ישראל = la selección de Israel
+הליגה הלאומית = Liga Leumit (segunda división)
+ליגה לאומית = Liga Leumit (segunda división)
+גביע המדינה = Copa del Estado (Copa de Israel)
+גביע הטוטו = Copa Toto
+ההתאחדות לכדורגל = Asociación de Fútbol de Israel

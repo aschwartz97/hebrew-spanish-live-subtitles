@@ -1,0 +1,35 @@
+# Secrets and local environment
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Claude Code local files (plans, notes, settings)
+.claude/
+CLAUDE.md
+
+# Personal class context (see *.example.txt)
+calendario.txt
+ficha.txt
+
+# Logs and transcripts
+debug.log
+*.log
+clase-*.txt
+transcripts/
+
+# Audio recordings
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.ogg
+*.flac
+
+# Local app icons (images for the README go in docs/)
+*.png
+*.jpg
+*.jpeg
+*.icns
+!docs/**
