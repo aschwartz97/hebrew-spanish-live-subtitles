@@ -1,0 +1,6 @@
+# Ficha de la clase (OPCIONAL). Copiá este archivo como "ficha.txt" y editalo.
+# Texto fijo que el traductor tiene presente en cada frase: tema general, nombres y términos frecuentes.
+# Las líneas con # se ignoran. Máx. 1500 caracteres; se manda en cada frase, así que cuanto más corta, más barata.
+Curso de ejemplo de análisis de fútbol, dictado en hebreo.
+Temas generales: scouting, evaluación de jugadores, análisis táctico, análisis de video y datos, pelota parada.
+Herramientas que se mencionan: una plataforma de video y datos (nombre genérico de ejemplo).

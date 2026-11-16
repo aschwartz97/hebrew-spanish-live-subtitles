@@ -1,0 +1,7 @@
+# Calendario de clases (OPCIONAL). Copiá este archivo como "calendario.txt" y editalo.
+# Formato: AAAA-MM-DD | temas | profesor
+# El servidor busca la fecha de hoy y le pasa solo esa línea al traductor. El profesor es opcional.
+2030-01-07 | Introducción al scouting; el rol del analista | Profesor A
+2030-01-14 | Terminología de fútbol; táctica básica | Profesor B
+2030-01-21 | Análisis de video y tagging | Profesor A
+2030-01-28 | Pelota parada; análisis del rival |
