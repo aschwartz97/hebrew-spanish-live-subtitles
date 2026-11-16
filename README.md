@@ -18,11 +18,6 @@ The page (`index.html`, served at `http://localhost:8765`) has:
 - **Audio sent** counter, showing how much audio has been streamed.
 - **Live partial transcript:** the sentence in progress appears in grey before it is translated.
 
-## Demo
-
-<!-- TODO: add a short GIF or video, e.g. ![Demo](docs/demo.gif) -->
-_Demo GIF coming soon._
-
 ## Architecture
 
 ```mermaid
